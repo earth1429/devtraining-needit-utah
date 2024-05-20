@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="DELETE">
+        <caller_access/>
+        <description>This event is fired for each overdue NeedIt Task record</description>
+        <event_name>x_58872_needit.</event_name>
+        <fired_by>Scheduled Script Execution - Find Overdue NeedIt Tasks</fired_by>
+        <queue/>
+        <suffix>overdueNeedItTask</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-20 15:04:22</sys_created_on>
+        <sys_id>69d9eb19935682109aa270a08bba10d7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_58872_needit.</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sysevent_register_69d9eb19935682109aa270a08bba10d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-20 15:32:19</sys_updated_on>
+        <table>x_58872_needit_needit_task</table>
+    </sysevent_register>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d8456488dbf6b9d439639027c5961902</instance_id>
+        <instance_name>dev223053</instance_name>
+        <name>sysevent_register_69d9eb19935682109aa270a08bba10d7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description>This event is fired for each overdue NeedIt Task record</description>
+        <event_name>x_58872_needit.</event_name>
+        <fired_by>Scheduled Script Execution - Find Overdue NeedIt Tasks</fired_by>
+        <queue/>
+        <suffix>overdueNeedItTask</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-20 15:04:22</sys_created_on>
+        <sys_id>69d9eb19935682109aa270a08bba10d7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_58872_needit.</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sysevent_register_69d9eb19935682109aa270a08bba10d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-20 15:32:19</sys_updated_on>
+        <table>x_58872_needit_needit_task</table>
+    </sysevent_register>
+</record_update>]]></payload>
+        <payload_hash>275564286</payload_hash>
+        <record_name>x_58872_needit.</record_name>
+        <reverted_from/>
+        <source>59077b55939682109aa270a08bba1051</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-20 16:00:39</sys_created_on>
+        <sys_id>ce077b55939682109aa270a08bba10e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f96bbc6960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-20 16:00:39</sys_updated_on>
+        <type>Event Registration</type>
+        <update_guid>8a077b558b968210c38096d305645ee5</update_guid>
+        <update_guid_history>8a077b558b968210c38096d305645ee5:0,e06273513796821006fd94f13d932a81:1010178640,7280379dac5682103bf798dd9a3bd742:1928440924,d16073dd3e568210121b1faa132e5298:746767322,6d2a235920568210466148e2c3364cc4:1928440924</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-20 16:06:31</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_register">sysevent_register</sys_db_object>
+        <sys_id>5020ceaeaac64ffab65ea95f422d0fe4</sys_id>
+        <sys_metadata>69d9eb19935682109aa270a08bba10d7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt Task">dc6c4e41935242109aa270a08bba10b9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sysevent_register_69d9eb19935682109aa270a08bba10d7</sys_update_name>
+        <sys_update_version display_value="sysevent_register_69d9eb19935682109aa270a08bba10d7">ce077b55939682109aa270a08bba10e5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-20 16:06:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
